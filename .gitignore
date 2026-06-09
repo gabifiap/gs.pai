@@ -1,0 +1,6 @@
+
+## NUNCA subir pro GitHub
+.env
+__pycache__/
+.venv/
+venv/

@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+import streamlit as st
+import random
+import os
+import google.generativeai as genai
+from dotenv import load_dotenv
