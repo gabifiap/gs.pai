@@ -48,15 +48,18 @@ O projeto foi desenvolvido em **Python**, utilizando **Streamlit** para a interf
 
 ## 🖼️ Demonstração
 
-*Adicione aqui screenshots ou GIFs do sistema em funcionamento.*
+<img width="1366" height="649" alt="image" src="https://github.com/user-attachments/assets/6c317f90-0447-472d-b82c-7ac7b1d9662a" />
 
+<img width="1357" height="645" alt="image" src="https://github.com/user-attachments/assets/8d8950d1-5744-42fd-99a4-6ab6141ba231" />
+
+vídeo: https://youtu.be/RxACmRK72DA
 ---
 
 ## ⚙️ Como Executar o Projeto
 
 ---
 
-### 1. Instale as Dependências
+### 1. Instale as Dependências 
 
 ```bash
 pip install -r requirements.txt
@@ -81,6 +84,9 @@ python-dotenv
 
 
 ---
+## Interface interativa
+
+https://r6rq6rys8zpigjenzuvv5o.streamlit.app/
 
 
 
